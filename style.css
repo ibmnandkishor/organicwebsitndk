@@ -66,7 +66,7 @@ transition: all 0.4s;}
     box-shadow: none;
  } */
 
- .main{background:url(./images/bacground.png)no-repeat;
+ .main{background:url(bacground.png)no-repeat;
 background-size: cover;
 height: 100;
 width: 100%;
@@ -110,7 +110,7 @@ color: white;}
 width: 30%;
 background: rgb(13, 168, 13);}
 
-/* .about{background:url(./images/pic1.png)no-repeat;
+/* .about{background:url(pic1.png)no-repeat;
 background-size: cover;
 height: 90vh;
 width: 100%;
